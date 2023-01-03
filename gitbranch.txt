@@ -1,0 +1,21 @@
+to see all the branches
+===>> git branch
+
+to create a new branch
+===>> git branch [branch name]
+
+to delete a branch
+===>> git branch -d [branch name]
+
+switch to a branch
+===>> git checkout [branch name]
+
+create a new branch and switch to it
+===>> git checkout -b [branch name]
+
+to push to a newly created branch
+===>> git push --set-upstream origin image-add
+
+to merge branches
+  ->go to the branch where you will branch
+  ->
